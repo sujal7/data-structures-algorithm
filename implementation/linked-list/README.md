@@ -1,3 +1,3 @@
-## Output of Program
+## Linked List Implementation Output
 
 ![alt](./img/output.PNG)
