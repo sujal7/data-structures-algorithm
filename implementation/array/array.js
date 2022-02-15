@@ -2,6 +2,9 @@
  * Represents an array.
  */
 class MyArray {
+  /**
+   * Initializes an array of length 0 with no data
+   */
   constructor() {
     this.length = 0;
     this.data = {};
